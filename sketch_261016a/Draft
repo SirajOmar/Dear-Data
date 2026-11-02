@@ -1,6 +1,3 @@
-Table mediaData;
-int totalEntries = 0;
-
 void setup() {
   size(800, 800);
   
