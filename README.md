@@ -6,12 +6,14 @@
 ##  Repository Structure
 
 The project directory is structured as follows:
-
 ```text
 ├── README.md                  # Project overview and documentation
-├── .gitattributes             # Repository tracking settings
-└── sketch_261016a/            # Core project working directory
-    └── sketch_261016a.pde     # Staged foundation script
+├── .gitattributes             # Repository tracking configuration
+└── Draft/                     # Core project execution directory
+    ├── Draft.pde              # Staged Processing Java foundation script
+    └── data/                  # Project data folder containing tracking logs and color rules
+        └── Genre_mapping.txt  # Genre mapping color profiles
+        └── profile.txt        # Dataset glossary
 ```
 
 *Note: The comprehensive raw data logs and qualitative field notes have been compiled in a formatted Word document (`.docx`), submitted securely alongside this repository link as per assessment guidelines.*
