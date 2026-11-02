@@ -1,0 +1,7 @@
+# DEAR DATA: FILM & TV DATA PROFILE
+
+- Total Tracking Period: 28
+- Total Media Entries Logged: 44
+- Total Movies Watched: 12
+- Total TV Episodes Watched: 32
+- Format: Master logs compiled in formatted tables inside 'DearData_Collection.docx'
