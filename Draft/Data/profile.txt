@@ -1,6 +1,6 @@
 # DEAR DATA: FILM & TV DATA PROFILE
 
-- Total Tracking Period: 28
+- Total Tracking Period: 28 days
 - Total Media Entries Logged: 44
 - Total Movies Watched: 12
 - Total TV Episodes Watched: 32
