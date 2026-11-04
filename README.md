@@ -15,7 +15,7 @@ The project directory is structured as follows:
         └── Genre_mapping.txt  # Genre mapping color profiles
         └── profile.txt        # Dataset glossary
 ```
-
+ **Dataset:** The complete data entries are compiled inside the repository file 
 
 ---
 
